@@ -1,6 +1,6 @@
 ---
-name: 'Template for developer '
-about: 'Template for developer issue '
+name: 'Template for analyst '
+about: 'Template for analyst issue '
 title: ''
 labels: ''
 assignees: ''
